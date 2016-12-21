@@ -1,0 +1,56 @@
+Police Force Name,Apr-16,May-16,Jun-16,Jul-16,Aug-16,Sep-16,Oct-16,Average of averages
+Avon And Somerset,6.9,4.8,5.9,7.5,7.9,6.5,7.5,6.7
+Bedfordshire,3.5,4.5,4.5,5.5,5,5.2,4.9,4.7
+British Transport Police,8.2,7.6,8.2,8.6,8.1,9.5,11.8,8.9
+Cambridgeshire,4.6,2.6,4.4,8.7,11.3,9.1,7.7,6.9
+Cheshire,6.8,8.5,10.7,11.1,11.3,8.8,8.2,9.3
+City of London,6.7,6.7,8.3,7.2,6.3,6.4,5.2,6.7
+Cleveland,11.6,12.5,12.5,15.3,19.3,18.7,14.9,15
+Cumbria,8.1,11.4,11.1,13.9,9.9,8.9,8.9,10.3
+Derbyshire,19.4,24.3,21.3,21.7,20.7,19.1,18.2,20.7
+Devon And Cornwall,9.5,11.6,13.1,14.6,19.1,16.5,12.8,13.9
+Dorset,74.1,56.9,43.3,29.4,29.2,24.2,14.1,38.7
+Durham,12,9.3,10.6,10,9.5,7.5,6,9.3
+Dyfed-Powys,8.7,6.9,6.6,6.2,7.2,8.4,8.7,7.5
+Essex,11.3,10.9,13.8,16.5,18.4,16.1,16,14.7
+Gloucester,12.1,12.1,11.9,10,9.9,9.7,8.1,10.5
+Greater Manchester,21.5,21.3,20.8,22.1,26.4,28.3,27,23.9
+Guernsey,2.3,3,2,1.9,2.1,2,1.9,2.2
+Gwent,4.8,3.7,5,6.2,7,4.7,4.9,5.2
+Hampshire,20.1,18,22.5,22.5,19.2,20.5,19,20.3
+Hertfordshire,8,11.4,13.4,11.4,4.3,2.9,3.3,7.8
+Humberside,9.7,8.7,10.7,10.2,9.3,9.4,10.1,9.7
+Isle of Man,9.2,4.2,3.7,3.9,6.8,6.3,7.8,6
+Jersey,2.4,2.7,4.2,5,3.6,4.6,3.4,3.7
+Kent,17.5,18,17.3,18.4,17.3,14.7,14.6,16.8
+Lancashire,4.9,6,6.2,8.2,9,6.8,5.6,6.7
+Leicestershire,3.7,3.8,4.7,4.1,3.3,2.8,3.7,3.7
+Lincolnshire,3.1,4.9,5.9,7.4,7.6,8.9,6.7,6.4
+Merseyside,7.9,7.6,8.7,9.2,9.9,9.5,8.5,8.8
+Metropolitan,114.4,112.8,108.9,128.4,115.3,87.4,83.9,107.3
+Ministry of Defence Police,4.2,5,5.3,3.8,3.8,3.2,2.5,4
+Norfolk,2,1.8,1.6,1.8,2,1.8,1.9,1.8
+North Wales,8.5,10.1,11.3,9.9,8.3,11.8,11.1,10.2
+North Yorkshire,21.8,24.8,26,25.1,31.3,38.9,39.8,29.7
+Northamptonshire,28,25.7,20.5,10.8,8.2,11.4,13.8,16.9
+Northumbria,13,15.9,16.7,19.4,15.8,14.6,14.8,15.8
+Nottinghamshire,11.5,11.9,15.4,19.3,22.3,23.3,20.7,17.8
+Police Scotland,16.4,17,18.1,13.5,12.1,9.4,9.5,13.7
+Police Services Northern Ireland,2.5,2.3,2.9,2.6,2.7,2.3,1.8,2.5
+Service Police,14.3,15.2,15.5,18.5,19.5,12.7,8.5,14.9
+South Wales,7,7.2,7,8.7,6.3,7,7.8,7.3
+South Yorkshire,28.2,28.7,25.1,21.1,18.9,19.1,15.6,22.4
+Staffordshire,2.8,3.5,3.2,4.4,6.2,6.8,6.7,4.8
+Suffolk,9,8.7,6.8,3.8,3.6,3.4,2.5,5.4
+Surrey,19.1,20.6,23.3,23.3,23.7,21.7,20,21.7
+Sussex,11.6,11,14.2,14.9,17.2,17.2,19.9,15.2
+Thames Valley,27,17.4,15.8,14,11.1,10.3,8.5,14.9
+Warwickshire,5.1,4.5,5.9,6.1,6.6,8.4,8,6.4
+West Mercia,7.6,5.4,3.8,4.8,9,10.8,11.2,7.5
+West Midlands,4.4,3.6,3.5,4.2,3.6,2.9,4.5,3.8
+West Yorkshire,9.3,10.1,12.8,14.6,16,16,13.5,13.2
+Wiltshire,3.1,3.7,4.7,5,6.7,7.8,7.4,5.5
+,,,,,,,,
+Figures from Disclosure and Barring Service: https://www.gov.uk/government/statistics/dbs-performance,,,,,,,,
+,,,,,,,,
+This provides the average time taken to process a check by police forces. Measure is taken from the first time a police force is sent a request for an applicant check to the time they close that request but does not include conflict time. It also includes time out with an applicant to respond to an offer of representations from police forces.,,,,,,,,
